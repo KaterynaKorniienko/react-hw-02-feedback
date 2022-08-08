@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KaterynaKorniienko/react-hw-02-feedback.git/static/css/main.162d5279.css",
+    "main.js": "/KaterynaKorniienko/react-hw-02-feedback.git/static/js/main.45a8c765.js",
+    "index.html": "/KaterynaKorniienko/react-hw-02-feedback.git/index.html",
+    "main.162d5279.css.map": "/KaterynaKorniienko/react-hw-02-feedback.git/static/css/main.162d5279.css.map",
+    "main.45a8c765.js.map": "/KaterynaKorniienko/react-hw-02-feedback.git/static/js/main.45a8c765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162d5279.css",
+    "static/js/main.45a8c765.js"
+  ]
+}
